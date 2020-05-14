@@ -18,6 +18,9 @@ public class Main {
 					case 1:
 						ClaseDeCarlos.escribir();
 						break;
+					case 2:
+						ClaseDeRami.escribir();
+						break;
 				
 				}	
 			} catch (Exception e) {

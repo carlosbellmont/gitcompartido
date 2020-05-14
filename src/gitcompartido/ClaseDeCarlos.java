@@ -7,3 +7,9 @@ public class ClaseDeCarlos {
 	}
 
 }
+public class ClaseDeRami {
+	
+	public static void escribir() {
+		System.out.println("2 clases en un archivo :v");
+	}
+}
