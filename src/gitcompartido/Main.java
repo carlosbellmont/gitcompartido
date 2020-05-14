@@ -23,7 +23,7 @@ public class Main {
 						break;
 
 					default:
-						System.out.println("No se porque no me deja crear otra clase ;_;");
+						ClaseDeRamiro.escribir();
 				
 				}	
 			} catch (Exception e) {
