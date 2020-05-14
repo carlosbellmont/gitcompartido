@@ -7,9 +7,9 @@ public class ClaseDeCarlos {
 	}
 
 }
-public class ClaseDeRami {
+public class ClaseDeR {
 	
 	public static void escribir() {
-		System.out.println("2 clases en un archivo :v");
+		System.out.println("2 clases en un archivo. Esto no deberia ser legal");
 	}
 }

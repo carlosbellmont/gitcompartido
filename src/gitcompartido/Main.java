@@ -18,7 +18,7 @@ public class Main {
 					case 1:
 						ClaseDeCarlos.escribir();
 						break;
-					case 2:
+					default:
 						ClaseDeRami.escribir();
 						break;
 				
