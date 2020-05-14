@@ -22,8 +22,8 @@ public class Main {
 						ClaseDeAdrianO.escribir();
 						break;
 
-					default:
-						System.out.println("No se porque no me deja crear otra clase ;_;");
+					case 3:
+						ClaseDeCarlos.ClaseDeR.escribir();
 				
 				}	
 			} catch (Exception e) {
