@@ -18,9 +18,12 @@ public class Main {
 					case 1:
 						ClaseDeCarlos.escribir();
 						break;
-					default:
-						ClaseDeRami.escribir();
+					case 2:
+						ClaseDeAdrianO.escribir();
 						break;
+
+					default:
+						System.out.println("No se porque no me deja crear otra clase ;_;");
 				
 				}	
 			} catch (Exception e) {
